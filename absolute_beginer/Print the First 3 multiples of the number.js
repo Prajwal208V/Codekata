@@ -14,4 +14,4 @@
 // 2 4 6
 
 var a=2;
-console.log(a,a*2,a*3);;
+console.log(a,a*2,a*3);
