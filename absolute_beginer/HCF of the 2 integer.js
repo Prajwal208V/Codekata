@@ -22,4 +22,4 @@ for(var i=1; i<=min; i++)
             var HCF = i;
         }
     }
-console.log(HCF);
+console.log(HCF);;
